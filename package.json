@@ -1,8 +1,8 @@
 {
   "name": "personal-os",
   "version": "0.1.0",
-  "private": true,
   "type": "module",
+  "types": "./dist/index.d.ts",
   "bin": {
     "personalos": "./dist/cli.js"
   },
